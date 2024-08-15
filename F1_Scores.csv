@@ -1,0 +1,7 @@
+,Performance on the test set of T1,Performance on the test set of T1 and T2.,"Performance on the test set of T1, T2 and T3.",Performance on combined G1+G2+G3,Performance of base_trained model on combined G1+G2+G3
+"Treatment
+F1",0.648854962,0.679441118,0.700938392,0.752536038,0.718109806
+Chronic Disease F1,0.707112971,0.701321586,0.712550607,0.795849863,0.740131078
+Cancer F1,0.622020431,0.661835749,0.694677871,0.735783027,0.675041876
+Allergy,0.125,0.711111111,0.7,0.733870968,0.697777778
+Weighted Average F1,0.658851712,0.68658514,0.704758715,0.766894974,0.720369165
