@@ -49,3 +49,7 @@ The continual learning approach demonstrated significant improvements:
 2. Implement adaptive sampling methods for memory replay, such as diversity-based sampling.
 3. Investigate the impact of different model architectures and pre-training approaches on continual learning performance.
 4. Extend the system to handle a wider range of medical entities and explore cross-domain transfer learning.
+
+## Demo
+
+Try out the trained NER model using this [Hugging Face Spaces demo](https://huggingface.co/spaces/krishnapal2308/clinic_trail_NER).
